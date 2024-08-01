@@ -1,0 +1,70 @@
+
+
+
+           ************************************ Introduction To Programming *******************************************
+
+
+
+         * Introduction To Programming Languages:->
+
+                  A programming language is a set of instructions and syntax used to create software programs. 
+
+              Some of the key features of programming languages include:
+
+
+
+
+           1) Syntax: The specific rules and structure used to write code in a programming language.
+
+
+           2) Data Types: The type of values that can be stored in a program, such as numbers, strings, and booleans.
+
+
+           3) Variables: Named memory locations that can store values.
+
+
+           4) Operators: Symbols used to perform operations on values, such as addition, subtraction, and comparison.
+
+
+           5) Control Structures: Statements used to control the flow of a program, such as if-else statements, loops, and function calls.
+
+
+           6) Libraries and Frameworks: Collections of pre-written code that can be used to perform common tasks and speed up development.
+
+
+           7) Paradigms: The programming style or philosophy used in the language, such as procedural, object-oriented, or functional.
+
+
+
+      * Basic Terminologies  in Programming Languages:
+
+          1) Algorithm:-> A step-by-step procedure for solving a problem or performing a task.
+
+          2) Variable:-> A named storage location in memory that holds a value or data.
+
+          3) Data Type:-> A classification that specifies what type of data a variable can hold, such as integer, string, or boolean.
+
+          4) Function:-> A self-contained block of code that performs a specific task and can be called from other parts of the program.
+
+          5) Control Flow:-> The order in which statements are executed in a program, including loops and conditional statements.
+
+          6) Syntax:-> The set of rules that govern the structure and format of a programming language.
+
+          7) Comment:-> A piece of text in a program that is ignored by the compiler or interpreter, used to 
+
+             add notes or explanations to the code.
+
+          8) Debugging:-> The process of finding and fixing errors or bugs in a program.
+
+
+          9) Operator: A symbol or keyword that represents an action or operation to be performed on one or more 
+
+             values or variables, such as + (addition), – (subtraction), * (multiplication), and / (division).
+
+         10) Statement: A single line or instruction in a program that performs a specific action or operation.
+
+         
+
+
+                
+               
